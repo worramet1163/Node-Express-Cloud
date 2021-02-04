@@ -1,0 +1,28 @@
+{
+  "name": "Node-Express-Cloud",
+  "version": "1.0.0",
+  "description": "Press deploy Node to Could",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worramet1163/Node-Express-Cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worramet1163/Node-Express-Cloud/issues"
+  },
+  "homepage": "https://github.com/worramet1163/Node-Express-Cloud#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
